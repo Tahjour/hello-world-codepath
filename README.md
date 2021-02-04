@@ -2,7 +2,7 @@
 
 ### App Description
 
-The application features a greeting message, an area for a user to input text and a four buttons that do different things. The first button takes the text entered into the text area above it and replaces the greeting message with that entered text. The second button changes the text to hard-coded text that says "Android is Awesome". The third button changes the background color to a shade of green. The fourth and last button changes the color of the greeting message to a shade of yellow.
+The application features a greeting message, an area for a user to input text and four buttons that do different things. The first button takes the text entered into the text area above it and replaces the greeting message with that entered text. The second button changes the text to hard-coded text that says "Android is Awesome". The third button changes the background color to a shade of green. The fourth and last button changes the color of the greeting message to a shade of yellow. Lastly, a user can click anywhere on the background of the screen to revert all changes back to default state.
 
 ### App Walk-though
 
